@@ -1,0 +1,23 @@
+{
+  "name": "moving-eyes",
+  "version": "1.0.0",
+  "description": "Amazing eyes moving",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "node_modules/.bin/http-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ester87/moving-eyes.git"
+  },
+  "author": "Ester Marti",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ester87/moving-eyes/issues"
+  },
+  "homepage": "https://github.com/ester87/moving-eyes#readme",
+  "devDependencies": {
+    "http-server": "^0.9.0"
+  }
+}

@@ -1,0 +1,25 @@
+#guillem-svg {
+  height: auto;
+}
+
+#happy-face {
+  display: none;
+}
+
+#guillem-svg:hover #happy-face {
+  display: block;
+}
+
+#guillem-svg:hover .eye {
+  display: none;
+}
+
+
+/* EXTRA CSS */
+body {
+  text-align: center;
+}
+
+#guillem-svg {
+  max-width: 500px;
+}
