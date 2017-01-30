@@ -17,9 +17,10 @@
 
 /* EXTRA CSS */
 body {
+  display: flex;
   text-align: center;
 }
 
 #guillem-svg {
-  max-width: 500px;
+  max-width: 250px;
 }
