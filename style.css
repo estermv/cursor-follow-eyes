@@ -16,11 +16,20 @@
 
 
 /* EXTRA CSS */
+body,
+html {
+	height: 100%;
+}
+
 body {
   display: flex;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
   text-align: center;
 }
 
 #guillem-svg {
+  flex: 1 0 auto;
   max-width: 250px;
 }
